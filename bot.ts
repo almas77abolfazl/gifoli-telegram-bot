@@ -1,7 +1,7 @@
 // Import the required packages
-const TelegramBot = require("node-telegram-bot-api");
-const mongoose = require("mongoose");
-const axios = require("axios");
+import TelegramBot from "node-telegram-bot-api";
+import mongoose from "mongoose";
+import axios from "axios";
 const GIPHY_API_KEY = "Rvo4liHDaw2Fri9wB2K32LaJOE1hybpa";
 
 // Connect to MongoDB
