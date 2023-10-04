@@ -14,7 +14,7 @@ This bot is built using the following technologies:
 
 ## Current Status
 
-As of now, the bot successfully connects to the database using Mongoose and fetches GIFs from GIPHY API based on the user's text input. However, there were some connection issues with MongoDB which needs to be resolved.
+The bot now successfully connects to MongoDB using Mongoose, fetches random GIFs through the '/random' button handler and fixes the Mongoose connection type error.
 
 ## Contributing
 
